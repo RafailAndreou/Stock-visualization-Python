@@ -1,7 +1,7 @@
 # Stock Price Visualization Project
 
 ## Overview
-This project is a replica of a more complex program developed as part of a university project. Unfortunately, the original file was lost, and due to an oversight, it was not saved properly. The original project had more advanced features, including visual complexity, and utilized machine learning algorithms such as linear regression for stock price predictions. This current version serves as a demo and will be updated to include more features in the future.
+This project is a replica of a more complex program developed as part of a university project. Unfortunately, the original file was lost, and due to an oversight, it was not saved properly. But I was lucky that at least I had a screenshot of an early version of the original project that I send to a friend.The original project had more advanced features, including visual complexity, and utilized machine learning algorithms such as linear regression for stock price predictions. This current version serves as a demo and will be updated to include more features in the future.
 
 ## Functionality
 The program allows users to visualize historical stock prices for selected companies. It fetches data from Yahoo Finance using the `yfinance` library and displays the closing prices in a matplotlib plot embedded within a tkinter window. Users can select a stock from a dropdown menu, choose start and end dates using calendar widgets, and click a button to generate the plot.
