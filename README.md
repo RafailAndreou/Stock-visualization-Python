@@ -32,4 +32,6 @@ This program is a work in progress, and future updates may include the following
 - Adding additional features based on user feedback.
 
 - ![Stock Price Visualization](https://github.com/RafailAndreou/Stock-visualization-Python/blob/main/Demo.png)
+## Old Version Demo
+- ![Old Version Visualization](https://github.com/RafailAndreou/Stock-visualization-Python/blob/main/Old.png)
 
