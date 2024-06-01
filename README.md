@@ -31,3 +31,5 @@ This program is a work in progress, and future updates may include the following
 - Improving the user interface for better usability.
 - Adding additional features based on user feedback.
 
+- ![Stock Price Visualization](https://github.com/RafailAndreou/Stock-visualization-Python/blob/main/Demo.png)
+
